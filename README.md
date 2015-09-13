@@ -2,6 +2,8 @@
 
 Curso de PHP do Básico ao Avançado.
 
+![PHP Logo](modulo-1/imagens/logo-php.jpg)
+
 ```php
 <?php
   /* Código de boas vindas */
