@@ -2,7 +2,7 @@
 
 Curso de PHP do Básico ao Avançado.
 
-![PHP Logo](modulo-1/imagens/logo-php.jpg)
+![PHP Logo](material-didatico/modulo-1/imagens/logo-php.jpg)
 
 ```php
 <?php
