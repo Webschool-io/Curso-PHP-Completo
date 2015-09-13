@@ -5,8 +5,8 @@ Curso de PHP do Básico ao Avançado.
 ```php
 <?php
   /* Código de boas vindas */
-  $mensagem_boas_vidas = "Sejam todos bem vindos!";
-  echo $mensagem_boas_vidas;
+  $mensagem_boas_vindas = "Sejam todos bem vindos!";
+  echo $mensagem_boas_vindas;
 ?>
 ```
 
