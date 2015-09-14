@@ -109,6 +109,7 @@ Curso de PHP do Básico ao Avançado.
 - Mysql 
 - Mysql com PDO
 - MongoDB
+- Postgresql
 
 ### MODULO 4 - Autenticação e arquivos
 
