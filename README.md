@@ -184,7 +184,8 @@ Curso de PHP do Básico ao Avançado.
 
 - Dicas desempenho e otimização
 - TDD (Desenvolvimento Orientado a Testes)
-
+- Dicas profissionais/mercado
+- Git com Test and Deploy
 ## Professor
 
 [Vagner Kaefer](https://www.facebook.com/vagkaefer)
