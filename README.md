@@ -25,12 +25,13 @@ Curso de PHP do Básico ao Avançado.
   - MacOS
   - Extensões
   - Opções
+  - PHP CLI
 - Sintaxe Básica 
 - Entendendo o php.ini 
 
 ### MODULO 2 - BASE INICIAL
 
-- Tipos (Será que precisa? bol, int, etc... Teria que saber isso da lógica)
+- Tipos
 - Variáveis
 - Constantes
 - Expressões
@@ -66,9 +67,9 @@ Curso de PHP do Básico ao Avançado.
   - def pelo usuário
   - argumentos
   - retornando valores
-- Classes e Objetos 
-  - (mil tópicos) 
+- Classes e Objetos  
 - Namespaces 
+- Standard PHP Library
 - Exceções
 - Generators 
 - Referências
