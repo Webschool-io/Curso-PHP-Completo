@@ -12,13 +12,19 @@ Curso de PHP do Básico ao Avançado.
 ?>
 ```
 
-## ATENÇÃO - ESSE MATERIAL ESTÁ EM DESENVOLVIMENTO E SERÁ UTILIZADO PARA GUIA DAS AULAS - AGUARDE O INICIO DAS AULAS
+## Grupo do facebook 
+
+Entra lá para receber todas as novidades e interagir com outros alunos e com o professor:
+[Webschool.io Curso -  PHP do básico ao avançado](https://www.facebook.com/groups/704478526318727/)
+
+## Site do curso
+[www.phpcompleto.com.br](http://www.phpcompleto.com.br)
 
 ## Ementa
 
 ### MODULO 1 - INTRODUÇÃO
 
-- [Introdução/História](material-didatico/modulo-1/1-introducao-historia.md)
+- [Introdução/História](material-didatico/modulo-1/aula 1 - introducao/introducao-historia.md)
 - Instalação e Configuração
   - Windows com wamp server
   - Linux (na unha)
@@ -181,7 +187,7 @@ Curso de PHP do Básico ao Avançado.
 - Filtro de dados enviados pelo usuário
 - Escondendo o PHP
 
-### MODULO 7 - GERAIS
+### MODULO 7 - ASSUNTOS GERAIS
 
 - Dicas desempenho e otimização
 - TDD (Desenvolvimento Orientado a Testes)
