@@ -1,4 +1,4 @@
-## Introdução/História
+## História
 
 ![PHP Logo](imagens/logo-php.jpg)
 
