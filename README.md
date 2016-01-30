@@ -27,15 +27,11 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
 
 - [Introdução ao curso](material-didatico/modulo-1/aula 1 - introducao/instroducao.md)
 - [Introdução ao PHP](material-didatico/modulo-1/aula 2 - o php/o php.md)
-- Instalação e Configuração
-  - Windows com wamp server
-  - Linux (na unha)
+- Instalação e Configuração do PHP(Será comentado sobre Extensões, Opções, CLI e o PHPinfo)
+  - Windows
+  - Linux 
   - MacOS
-  - Extensões
-  - Opções
-  - PHP CLI
 - Sintaxe Básica 
-- Entendendo o php.ini 
 
 ### MODULO 2 - BASE INICIAL
 
