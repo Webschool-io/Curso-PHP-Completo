@@ -1,5 +1,9 @@
 ## Instalação do PHP no Windows
 
+Vídeo aula: ---
+
+### Atenção: Essa aula requer o download de arquivos, veja a lista [aqui](downloads.md)
+
 Caso você utilize um sistema linux, acesse o tutorial de instalação para sistemas Linux AQUI (COLOCAR LINK)
 
 Eu não vou lhe pedir para usar nenhum sistema operacional especifico. Pessoalmente eu prefiro plataformas linux para desenvolvimento! Mas use aquele que você tem mais facilidade.

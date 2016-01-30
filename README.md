@@ -25,7 +25,7 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
 
 ### MODULO 1 - INTRODUÇÃO
 
-- [Introdução ao curso](material-didatico/modulo-1/aula 1 - introducao/instroducao.md)
+- [Introdução ao curso](material-didatico/modulo-1/aula 1 - introducao/introducao.md)
 - [Introdução ao PHP](material-didatico/modulo-1/aula 2 - o php/o php.md)
 - Instalação e Configuração do PHP(Será comentado sobre Extensões, Opções, CLI e o PHPinfo)
   - Windows
