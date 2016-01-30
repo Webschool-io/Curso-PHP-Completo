@@ -1,6 +1,6 @@
 ## História
 
-![PHP Logo](imagens/logo-php.jpg)
+![PHP Logo](../imagens/logo-php.jpg)
 
 Sejam todos bem vindos ao curso completo de PHP. 
 
