@@ -1,6 +1,8 @@
 
 # ATENÇÃO - LEIA BEM ESSE ARQUIVO
 
+# SERÁ CRIADO UM NOVO REPOSITÓRIO PARA OS EXERCÍCIOS - AGUARDE POR FAVOR
+
 Essa pasta foi criada para o compartilhamento de arquivos. Com isso os professores, alunos e demais usuários com conta no Github poderão visualizar os códigos. Possibilitando o auxilio na resolução de problemas, dicas nos códigos, etc.
 
 Caso você deseje utilizar essa pasta, siga as etapas abaixo:
