@@ -110,11 +110,13 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
 
 ### MODULO 3 - BANCO DE DADOS
 
-- O que é um banco de dados
-- Mysql 
-- Mysql com PDO
-- MongoDB
-- Postgresql
+- Introdução a Banco de Dados
+   * Linguagem SQL. 
+   * Mysql
+   * Postgresql
+   * MongoDB
+- PHP com MySQL 
+- PHP com PostgreSQL
 
 ### MODULO 4 - Autenticação e arquivos
 
