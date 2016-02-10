@@ -132,7 +132,7 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
   - copiando remoto
   - salvando remoto
 - Safe Mode
-- Php pela linha de comando
+- Php pela linha de comando e agendamento (Cron)
 - URLs amigáveis e outras opções do .htaccess
 
 ### MODULO 5 - EXTENSÕES
