@@ -1,6 +1,6 @@
 ## Introdução ao curso
 
-Link da vídeo aula: Ainda não publicado, aguarde atualizações.
+Link da vídeo aula: https://www.youtube.com/watch?v=DsV_c6Mv8P0
 
 Essa aula praticamente não possui material complementar. 
 
