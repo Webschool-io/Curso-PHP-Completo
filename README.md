@@ -31,7 +31,7 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
   - Windows
   - Linux 
   - MacOS
-- Sintaxe Básica 
+- [Sintaxe Básica](material-didatico/modulo-1/aula 6 - sintaxe basica/sintaxe.md) 
 
 ### MODULO 2 - BASE INICIAL
 
