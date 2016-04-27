@@ -31,13 +31,15 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
   - Windows
   - Linux 
   - MacOS
-- Sintaxe Básica 
+- Sintaxe Básica
+  - Variáveis
+  - Constantes 
 
 ### MODULO 2 - BASE INICIAL
-
-- Tipos
-- Variáveis
-- Constantes
+- Tipos de variáveis
+  - Pseudo-tipos
+  - Manipulação de tipos
+  - Conversão de tipos
 - Expressões
 - Operadores
   - Aritméticos
