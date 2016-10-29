@@ -28,9 +28,9 @@ Entra lá para receber todas as novidades e interagir com outros alunos e com o 
 - [Introdução ao curso](material-didatico/modulo-1/aula 1 - introducao/introducao.md)
 - [Introdução ao PHP](material-didatico/modulo-1/aula 2 - o php/o php.md)
 - Instalação e Configuração do PHP(Será comentado sobre Extensões, Opções, CLI e o PHPinfo)
-  - Windows
-  - Linux 
-  - MacOS
+  - [Windows](material-didatico/modulo-1/aula 3 - instalacao windows/windows.md)
+  - [Linux](material-didatico/modulo-1/aula 4 - instalacao linux/linux.md)
+  - [MacOS](material-didatico/modulo-1/aula 5 - instalacao mac/mac.md)
 - Sintaxe Básica
   - Variáveis
   - Constantes 
